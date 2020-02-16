@@ -1,0 +1,32 @@
+.help-block, .help-inline {
+    color: #FF0000;
+}
+.navbar-custom {
+    padding:15px 0px;
+}
+.navbar-custom{
+	background: #f3f3f3;
+    border-bottom: 1px solid #54aa54;
+}
+.tc{
+text-align: center;
+}
+.wid{
+	width: 40%;
+}
+.blockui {
+    padding: 15px;
+    background-color: transparent !important;
+    border: 0px !important;
+    opacity: 1 !important;
+}
+.wrapword{
+	white-space: -moz-pre-wrap !important;  /* Mozilla, since 1999 */
+	white-space: -pre-wrap;      /* Opera 4-6 */
+	white-space: -o-pre-wrap;    /* Opera 7 */
+	white-space: pre-wrap;       /* css-3 */
+	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+	white-space: -webkit-pre-wrap; /* Newer versions of Chrome/Safari*/
+	word-break: break-all;
+	white-space: normal;
+}

@@ -1,0 +1,7 @@
+applications:
+- name: ems
+  random-route: true
+  services:
+  - ems
+  path: target/EMS-0.0.1-SNAPSHOT.jar
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
